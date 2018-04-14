@@ -1,0 +1,24 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hero.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jardoe/RPG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jardoe/RPG/issues"
+  },
+  "homepage": "https://github.com/Jardoe/RPG#readme"
+}
